@@ -31,7 +31,7 @@
 
 <li><a href='https://www.codewars.com/users/MargoY/badges/small'>Codewars</a></li>
 
-[![codewars](https://www.codewars.com/users/MargoY/badges/small)](https://www.codewars.com/users/MargoY)
+[![codewars](https://www.codewars.com/users/MargoY/badges/large)](https://www.codewars.com/users/MargoY)
 
 <li><a href='https://leetcode.com/margoYunanova'>LeetCode</a></li>
 
