@@ -27,7 +27,7 @@
   </li>
 </ul>
 
-<b>Алгоритмические задачи</b>
+<a href="https://github.com/margo-yunanova/javascript-algorithms"><b>Алгоритмические задачи</b></a>
 
 <li><a href='https://www.codewars.com/users/MargoY/badges/small'>Codewars</a></li>
 
