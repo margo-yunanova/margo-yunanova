@@ -3,14 +3,15 @@
 <b>Курсы</b>
 
 <ul>
-  <li>Яндекс.Практикум, обучение закончится в декабре 2023 г.
+  <li>Яндекс.Практикум, обучение закончится в декабре 2023 г.    
     <ul>
+      <b>Завершенные проекты</b>
       <li><a href="https://github.com/margo-yunanova/algososh">Визуализация работы алгоритмов</a> - React, TypeScript,
         CSS</li>
       <li><a href="https://github.com/margo-yunanova/react-burger">Stellar burgers - сайт бургерной на краю вселенной</a>
         - React, Redux, TypeScript, CSS
       </li>
-      <li><a href="https://github.com/margo-yunanova/mesto-project">Место - небольшой сайт для публикации фотографий</a>
+      <li><a href="https://github.com/margo-yunanova/mesto-project">Frontend: Место - небольшой сайт для публикации фотографий</a>
         - HTML, CSS, JavaScript
       </li>
       <!-- <li><a href="https://ru.hexlet.io/u/margo-yunanova">Балапанлар - коммерческий лендинг для образовательного
@@ -19,6 +20,14 @@
       </li>
       <li><a href="https://github.com/margo-yunanova/how-to-learn-plus">Научится учится - лендинг</a> - HTML, CSS</li>
     </ul>
+    <ul>
+      <b>Проекты в процессе разработки</b>
+      <li><a href="https://github.com/margo-yunanova/mesto-project-plus">Backend: Место - небольшой сайт для публикации фотографий</a> 
+        - TypeScript
+      </li>
+      <li><a href="https://github.com/margo-yunanova/ono-tebe-nado">Оно тебе надо - лендинг</a> 
+        - HTML, CSS
+      </li>
   </li>
   <li>Хекслет, обучение закончится в декабре 2023 г.
     <ul>
