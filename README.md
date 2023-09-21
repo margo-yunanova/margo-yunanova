@@ -38,15 +38,13 @@
 
 <a href="https://github.com/margo-yunanova/javascript-algorithms"><b>Алгоритмические задачи</b></a>
 
-<li><a href='https://www.codewars.com/users/MargoY/badges/small'>Codewars</a></li>
+<li><a href='https://www.codewars.com/users/MargoY'>Codewars</a></li>
 
-<!-- [![codewars](https://www.codewars.com/users/MargoY/badges/large)](https://www.codewars.com/users/MargoY) -->
-[![Codewars](https://github.r2v.ch/codewars?user=MargoY)]([LINK](https://www.codewars.com/users/MargoY))
+[![Codewars](https://github.r2v.ch/codewars?user=MargoY)](https://www.codewars.com/users/MargoY)
 
 <li><a href='https://leetcode.com/margoYunanova'>LeetCode</a></li>
 
-[![KnlnKS's LeetCode
-stats](https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <b>Навыки</b>
 
