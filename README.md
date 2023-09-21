@@ -44,7 +44,7 @@
 
 <li><a href='https://leetcode.com/margoYunanova'>LeetCode</a></li>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark)](https://leetcode.com/margoYunanova)
 
 <b>Навыки</b>
 
