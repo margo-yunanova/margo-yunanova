@@ -44,7 +44,7 @@
 
 <li><a href='https://github.com/margo-yunanova/javascript-algorithms/tree/main/codewars'>Codewars</a></li>
 
-[![Codewars](https://github.r2v.ch/codewars?user=MargoY)](https://www.codewars.com/users/MargoY)
+[![Codewars](https://github.r2v.ch/codewars?user=rsschool_7a85748007a54f51)](https://www.codewars.com/users/rsschool_7a85748007a54f51)
 
 <li><a href='https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode'>LeetCode</a></li>
 
