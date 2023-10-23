@@ -28,7 +28,7 @@
           фотографий</a>
         - TypeScript, Express.js
       </li>
-      <li><a href="https://github.com/margo-yunanova/mesto-project-plus">Backend: КупиПодариДай - сервис вишлистов</a>
+      <li><a href="https://github.com/margo-yunanova/kupipodariday-backend">Backend: КупиПодариДай - сервис вишлистов</a>
         - TypeScript, NestJS
       </li>
       <li><a href="https://github.com/margo-yunanova/ono-tebe-nado">Оно тебе надо - лендинг</a>
