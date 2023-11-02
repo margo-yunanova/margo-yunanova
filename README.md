@@ -26,10 +26,10 @@
       <b>Проекты в процессе разработки</b>
       <li><a href="https://github.com/margo-yunanova/mesto-project-plus">Backend: Место - небольшой сайт для публикации
           фотографий</a>
-        - TypeScript, Express.js
+        - TypeScript, Express.js, MongoDB, Mongoose
       </li>
       <li><a href="https://github.com/margo-yunanova/kupipodariday-backend">Backend: КупиПодариДай - сервис вишлистов</a>
-        - TypeScript, NestJS
+        - TypeScript, NestJS, PostgreSQL + TypeORM
       </li>
       <li><a href="https://github.com/margo-yunanova/ono-tebe-nado">Оно тебе надо - лендинг</a>
         - HTML, CSS
