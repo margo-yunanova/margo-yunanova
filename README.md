@@ -1,6 +1,6 @@
+<h1 align="center">Привет 🖖, меня зовут Марго и я<br> Frontend разработчик</h1>
 
-  <h1 align="center">Привет 🖖, меня зовут Марго и я<br> Frontend разработчик</h1>
-  <img align="center" width="400px" src="./images/144.gif" alt="Марго Всемогущая" />
+<div align="center"><img width="350px" src="./images/144.gif" alt="Марго Всемогущая" /></div>
 
 <section>
   <h2 style="color: #8e00ff;">Курсы</h2>
@@ -87,26 +87,23 @@
   </ul>
 </section>
 
-<section>
-  <a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms">
-    <h2 style="color: #8e00ff;">Алгоритмические задачи</h2>
-  </a>
 
-  <ul style=" display: flex; gap: 10px; list-style-type:none;padding-inline-start: 0px;">
-    <li style="width: 400px;display: flex; flex-direction: column; gap: 10px">
-      <a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">Codewars</a>
-      <a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51"><img
-          src="https://github.r2v.ch/codewars?user=rsschool_7a85748007a54f51" alt="Статистика Codewars"
-          style="width: 400px" /></a>
-    </li>
-    <li style="width: 400px;display: flex; flex-direction: column; gap: 10px">
-      <a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">LeetCode</a>
-      <a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
-        <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode"
-          style="width: 400px" /></a>
-    </li>
-  </ul>
-</section>
+<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms">
+<h2 style="color: #8e00ff;">Алгоритмические задачи</h2>
+</a>
+
+<ul style=" display: flex; gap: 10px; list-style-type:none;padding-inline-start: 0px;">
+
+<a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">Codewars</a>
+
+<a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">
+  <img src="https://github.r2v.ch/codewars?user=rsschool_7a85748007a54f51" alt="Статистика Codewars" style="width: 400px" /></a>
+  
+<a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">LeetCode</a>
+
+<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
+  <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /></a>
+
 
 <section>
   <h2 style="color: #8e00ff;">Навыки</h2>
@@ -188,16 +185,14 @@
 
 <h2 style="color: #8e00ff;">My GitHub Stats</h2>
 
-<div style="display: flex; gap: 10px">
-  <div style="display: flex; flex-direction: column; gap: 10px">
-    <a target="_blank" href="http://www.github.com/margo-yunanova"><img
+<div>
+<a target="_blank" href="http://www.github.com/margo-yunanova"><img
       src="https://github-readme-stats.vercel.app/api?username=margo-yunanova&show_icons=true&hide=stars,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true"
       alt="margo-yunanova's GitHub stats" style="width: 400px" /></a>
-    <a target="_blank" href="http://www.github.com/margo-yunanova"><img
+<a target="_blank" href="http://www.github.com/margo-yunanova"><img
         src="https://github-readme-streak-stats.herokuapp.com/?user=margo-yunanova&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
         style="width: 400px" /></a>
-  </div>
-  <a target="_blank" href="https://github.com/margo-yunanova"><img
+<a target="_blank" href="https://github.com/margo-yunanova"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=margo-yunanova&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"
       alt="Top Languages" /></a>
 </div>
