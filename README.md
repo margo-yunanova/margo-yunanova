@@ -1,7 +1,7 @@
 <header style="display: flex; flex-direction: column; align-items: center;">
   <h1 style="text-align: center;">Привет 🖖, меня зовут Марго и я<br> Frontend разработчик</h1>
   <img width="400px"
-    src="https://github.com/margo-yunanova/margo-yunanova/assets/67325499/063f17c4-51b9-4a81-9b40-8ef0bbc24fae"
+    src="./images/144.gif"
     alt="Марго Всемогущая" />
 </header>
 
