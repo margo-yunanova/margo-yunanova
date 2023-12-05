@@ -1,5 +1,11 @@
 <h1 align="center">Привет 🖖, я начинающий Frontend разработчик</h1>
 
+<h2 align="center">
+
+  ![video_2023-12-05_21-29-42 (online-video-cutter com) (1)](https://github.com/margo-yunanova/margo-yunanova/assets/67325499/063f17c4-51b9-4a81-9b40-8ef0bbc24fae)
+  
+</h2>
+
 <b>Курсы</b>
 
 <ul>
