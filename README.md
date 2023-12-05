@@ -1,9 +1,6 @@
-<header style="display: flex; flex-direction: column; align-items: center;">
-  <h1 style="text-align: center;">Привет 🖖, меня зовут Марго и я<br> Frontend разработчик</h1>
-  <img width="400px"
-    src="./images/144.gif"
-    alt="Марго Всемогущая" />
-</header>
+
+  <h1 align="center">Привет 🖖, меня зовут Марго и я<br> Frontend разработчик</h1>
+  <img align="center" width="400px" src="./images/144.gif" alt="Марго Всемогущая" />
 
 <section>
   <h2 style="color: #8e00ff;">Курсы</h2>
