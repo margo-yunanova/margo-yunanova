@@ -50,7 +50,7 @@
       <a target="_blank" href="https://github.com/margo-yunanova/kupipodariday-backend">КупиПодариДай - API для
         сервиса для
         создания списков желаний</a>
-      <span>Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket</span>
+      <span>Стек: TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js, JWT, REST API</span>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/russian-travel">Путешествие по России -
