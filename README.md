@@ -94,6 +94,7 @@
       <span>Стек: React, Storybook</span>
      </li>
    </ul>
+  <li>
   <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
     RSSchool, обучение закончится в 2024 г.
   </h3>
@@ -129,69 +130,35 @@
     <div style="display: flex; flex-direction: column; gap: 10px;">
       <h3 style="margin-block-start: 18px;margin-block-end: 0px;">Стек</h3>
       <div style="display: flex; gap: 10px; margin-left: 20px;">
-        <a href="https://www.flaticon.com/free-icons/javascript">
-          <img src="./images/javascript.svg" width="36" height="36" alt="icon javascript" />
-        </a>
-        <a href="https://www.flaticon.com/free-icons/typescript">
-          <img src="./images/typescript.png" width="36" height="36" alt="icon typescript" />
-        </a>
-        <a href=" https://www.flaticon.com/free-icons/html">
-          <img src="./images/html.png" width="36" height="36" alt="icon html5" />
-        </a>
-        <a href="https://www.flaticon.com/free-icons/css">
-          <img src="./images/css.png" width="36" height="36" alt="icon css" />
-        </a>
-        <a href="https://simpleicons.org/">
-          <img src="./images/sass.svg" width="36" height="36" alt="icon css" />
-        </a>
+        <a href="https://www.flaticon.com/free-icons/javascript"><img src="./images/javascript.svg" width="36" height="36" alt="icon javascript" /></a>
+        <a href="https://www.flaticon.com/free-icons/typescript"><img src="./images/typescript.png" width="36" height="36" alt="icon typescript" /></a>
+        <a href=" https://www.flaticon.com/free-icons/html"><img src="./images/html.png" width="36" height="36" alt="icon html5" /></a>
+        <a href="https://www.flaticon.com/free-icons/css"><img src="./images/css.png" width="36" height="36" alt="icon css" /></a>
+        <a href="https://simpleicons.org/"><img src="./images/sass.svg" width="36" height="36" alt="icon css" /></a>
       </div>
     </div>
   </div>
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <h3 style="margin-block-start: 18px;margin-block-end: 0px;">Фреймворки и библиотеки</h3>
     <div style="display: flex; gap: 10px; margin-left: 20px;">
-      <a href="https://simpleicons.org/">
-        <img src="./images/react.svg" width="36" height="36" alt="icon react" />
-      </a>
-      <a href="https://simpleicons.org/">
-        <img src="./images/reactrouter.svg" width="36" height="36" alt="icon reactrouter" />
-      </a>
-      <a href="https://simpleicons.org/">
-        <img src="./images/redux.svg" width="36" height="36" alt="icon redux" />
-      </a>
-      <a href="https://simpleicons.org/">
-        <img src="./images/express.svg" width="36" height="36" alt="icon express" />
-      </a>
-      <a href="https://simpleicons.org/">
-        <img src="./images/nestjs.svg" width="36" height="36" alt="icon nestjs" />
-      </a>
-      <a href="https://simpleicons.org/">
-        <img src="./images/jest.svg" width="36" height="36" alt="icon jest" />
-      </a>
-      <a href="https://simpleicons.org/">
-        <img src="./images/cypress.svg" width="36" height="36" alt="icon cypress" />
-      </a>
+      <a href="https://simpleicons.org/"><img src="./images/react.svg" width="36" height="36" alt="icon react" /></a>
+      <a href="https://simpleicons.org/"><img src="./images/reactrouter.svg" width="36" height="36" alt="icon reactrouter" /></a>
+      <a href="https://simpleicons.org/"><img src="./images/redux.svg" width="36" height="36" alt="icon redux" /></a>
+      <a href="https://simpleicons.org/"><img src="./images/express.svg" width="36" height="36" alt="icon express" /></a>
+      <a href="https://simpleicons.org/"><img src="./images/nestjs.svg" width="36" height="36" alt="icon nestjs" /></a>
+      <a href="https://simpleicons.org/"><img src="./images/jest.svg" width="36" height="36" alt="icon jest" /></a>
+      <a href="https://simpleicons.org/"><img src="./images/cypress.svg" width="36" height="36" alt="icon cypress" /></a>
     </div>
   </div>
 
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <h3 style="margin-block-start: 18px;margin-block-end: 0px;">Прочие технологии</h3>
     <div style="display: flex; gap: 10px; margin-left: 20px;">
-      <a href="https://www.flaticon.com/free-icons">
-        <img src="./images/git.svg" width="36" height="36" alt="icon  git" />
-      </a>
-      <a href="https://www.flaticon.com/free-icons">
-        <img src="./images/mongodb.svg" width="36" height="36" alt="icon mongo" />
-      </a>
-      <a href="https://www.flaticon.com/free-icons">
-        <img src="./images/postgresql.svg" width="36" height="36" alt="icon postgresql" />
-      </a>
-      <a href="https://www.flaticon.com/free-icons">
-        <img src="./images/bem.svg" width="36" height="36" alt="icon bem" />
-      </a>
-      <a href="https://www.flaticon.com/free-icons">
-        <img src="./images/figma.svg" width="36" height="36" alt="figma" />
-      </a>
+      <a href="https://www.flaticon.com/free-icons"><img src="./images/git.svg" width="36" height="36" alt="icon  git" /></a>
+      <a href="https://www.flaticon.com/free-icons"><img src="./images/mongodb.svg" width="36" height="36" alt="icon mongo" /></a>
+      <a href="https://www.flaticon.com/free-icons"><img src="./images/postgresql.svg" width="36" height="36" alt="icon postgresql" /></a>
+      <a href="https://www.flaticon.com/free-icons"><img src="./images/bem.svg" width="36" height="36" alt="icon bem" /></a>
+      <a href="https://www.flaticon.com/free-icons"><img src="./images/figma.svg" width="36" height="36" alt="figma" /></a>
     </div>
   </div>
 </section>
