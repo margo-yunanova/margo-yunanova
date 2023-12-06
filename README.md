@@ -2,6 +2,14 @@
 
 <div align="center"><img width="350px" src="./images/144.gif" alt="Марго Всемогущая" /></div>
 
+<h2 style="color: #8e00ff;">Контакты</h2>
+
+<b>Telegram </b><a target="_blank" href="https://t.me/MargoY"><span>@MargoY</span></a>
+
+<b>Резюме на </b><a target="_blank" href="https://hh.ru/resume/308fa690ff0c7281a20039ed1f394354427034"><span>hh.ru</span></a>
+
+
+
 <section>
   <h2 style="color: #8e00ff;">Курсы</h2>
 
