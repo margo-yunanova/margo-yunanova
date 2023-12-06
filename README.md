@@ -86,10 +86,19 @@
 </li>
 <li>
   <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
+    Open source
+  </h3>
+  <ul style="list-style-type:none;padding-inline-start: 10px;">
+    <li style="display: flex; flex-direction: column;">
+      <a target="_blank" href="https://github.com/MemeBattle/monorepo">Ligretto - онлайн многопользовательская игра</a>
+      <span>Стек: React, Storybook</span>
+     </li>
+   </ul>
+  <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
     RSSchool, обучение закончится в 2024 г.
   </h3>
   <ul style="list-style-type:none;padding-inline-start: 10px;">
-
+    
   </ul>
 </li>
   </ul>
