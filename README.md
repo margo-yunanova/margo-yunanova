@@ -76,12 +76,12 @@
   <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
     Хекслет, обучение закончится в 2024 г.
   </h3>
-  <ul style="list-style-type:none;padding-inline-start: 10px;display: flex;flex-direction: column; gap: 10px;">
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://ru.hexlet.io/u/margo-yunanova">
-        <h4 style="margin-block-start: 15px;margin-block-end: 0px;">Профиль</h4>
-      </a>
-    </li>
+  <ul>
+    <li>
+      <h4>
+        <a target="_blank" href="https://ru.hexlet.io/u/margo-yunanova">Профиль</a>
+      </h4>
+     </li>
   </ul>
 </li>
 <li>
