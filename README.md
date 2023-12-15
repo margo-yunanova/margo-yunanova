@@ -23,43 +23,37 @@
     <h4 style="margin-block-start: 15px;margin-block-end: 0px;">Завершенные проекты</h4>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/mesto-project">Frontend: Место - это соцсеть для
-        обмена
-        фотографиями с возможностью ставить им лайки.</a>
-      <span>Стек: vanilla JavaScript, HTML, CSS, БЭМ, REST API</span>
+        обмена фотографиями с возможностью ставить им лайки</a>
+        <div> Стек: vanilla JavaScript, HTML, CSS, БЭМ, REST API</div>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/mesto-project-plus">Backend: Место - это соцсеть
-        для
-        обмена фотографиями
-        с возможностью ставить им лайки.</a>
-      <span>Стек: TypeScript, ExpressJS, Mongodb, Mongoose, Celebrate, Winston, REST API, JWT</span>
+        для обмена фотографиями с возможностью ставить им лайки</a>
+      <div> Стек: TypeScript, ExpressJS, Mongodb, Mongoose, Celebrate, Winston, REST API, JWT</div>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/algososh">Визуализация работы алгоритмов и
-        структур
-        данных</a><span>Стек:
-        TypeScript, React, Cypress, Jest</span>
+        структур данных</a>
+        <div> Стек: TypeScript, React, Cypress, Jest</div>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/react-burger">Stellar burgers - одностраничное
-        приложение
-        бургерной</a>
-      <span>Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket</span>
+        приложение бургерной</a>
+      <div> Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket</div>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/kupipodariday-backend">КупиПодариДай - API для
-        сервиса для
-        создания списков желаний</a>
-      <span>Стек: TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js, JWT, REST API</span>
+        сервиса для создания списков желаний</a>
+      <div> Стек: TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js, JWT, REST API</div>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/russian-travel">Путешествие по России -
         лендинг</a>
-      <span>Стек: HTML, CSS</span>
+      <div> Стек: HTML, CSS</div>
     </li>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/how-to-learn-plus">Научится учиться - лендинг</a>
-      <span>Стек: HTML, CSS</span>
+      <div> Стек: HTML, CSS</div>
     </li>
   </ul>
 
@@ -67,7 +61,7 @@
     <h4 style="margin-block-start: 15px;margin-block-end: 0px;">Проекты в процессе разработки</h4>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/ono-tebe-nado">Оно тебе надо - лендинг</a>
-      <span>HTML, CSS</span>
+      <div>Стек: HTML, CSS</div>
     </li>
 
   </ul>
@@ -91,7 +85,7 @@
   <ul style="list-style-type:none;padding-inline-start: 10px;">
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/MemeBattle/monorepo">Ligretto - онлайн многопользовательская игра</a>
-      <span>Стек: React, Storybook</span>
+      <div>Стек: React, Storybook</div>
      </li>
    </ul>
   <li>
@@ -112,12 +106,12 @@
 
 <ul style=" display: flex; gap: 10px; list-style-type:none;padding-inline-start: 0px;">
 
-<a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">Codewars</a>
+<a target="_blank" href="https://www.codewars.com/users/MargoY">Codewars</a>
 
-<a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">
-  <img src="https://github.r2v.ch/codewars?user=rsschool_7a85748007a54f51" alt="Статистика Codewars" style="width: 400px" /></a>
+<a target="_blank" href="https://www.codewars.com/users/MargoY">
+  <img src="https://github.r2v.ch/codewars?user=MargoY" alt="Статистика Codewars" style="width: 400px" /></a>
   
-<a target="_blank" href="https://www.codewars.com/users/rsschool_7a85748007a54f51">LeetCode</a>
+<a target="_blank" href="https://leetcode.com/margoYunanova/">LeetCode</a>
 
 <a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
   <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /></a>
