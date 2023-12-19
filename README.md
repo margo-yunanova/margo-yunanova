@@ -20,7 +20,6 @@
       </h3>
 
   <ul style="list-style-type:none;padding-inline-start: 10px;display: flex;flex-direction: column; gap: 10px;">
-    <h4 style="margin-block-start: 15px;margin-block-end: 0px;">Завершенные проекты</h4>
     <li style="display: flex; flex-direction: column;">
       <a target="_blank" href="https://github.com/margo-yunanova/mesto-project">Frontend: Место - это соцсеть для
         обмена фотографиями с возможностью ставить им лайки</a>
@@ -46,24 +45,6 @@
         сервиса для создания списков желаний</a>
       <div> Стек: TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js, JWT, REST API</div>
     </li>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/russian-travel">Путешествие по России -
-        лендинг</a>
-      <div> Стек: HTML, CSS</div>
-    </li>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/how-to-learn-plus">Научится учиться - лендинг</a>
-      <div> Стек: HTML, CSS</div>
-    </li>
-  </ul>
-
-  <ul style="list-style-type:none;padding-inline-start: 10px;display: flex;flex-direction: column; gap: 10px;">
-    <h4 style="margin-block-start: 15px;margin-block-end: 0px;">Проекты в процессе разработки</h4>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/ono-tebe-nado">Оно тебе надо - лендинг</a>
-      <div>Стек: HTML, CSS</div>
-    </li>
-
   </ul>
 </li>
 <li>
@@ -88,34 +69,8 @@
       <div>Стек: React, Storybook</div>
      </li>
    </ul>
-  <li>
-  <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
-    RSSchool, обучение закончится в 2024 г.
-  </h3>
-  <ul style="list-style-type:none;padding-inline-start: 10px;">
-    
-  </ul>
-</li>
-  </ul>
+ </ul>
 </section>
-
-
-<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms">
-<h2 style="color: #8e00ff;">Алгоритмические задачи</h2>
-</a>
-
-<ul style=" display: flex; gap: 10px; list-style-type:none;padding-inline-start: 0px;">
-
-<a target="_blank" href="https://www.codewars.com/users/MargoY">Codewars</a>
-
-<a target="_blank" href="https://www.codewars.com/users/MargoY">
-  <img src="https://github.r2v.ch/codewars?user=MargoY" alt="Статистика Codewars" style="width: 400px" /></a>
-  
-<a target="_blank" href="https://leetcode.com/margoYunanova/">LeetCode</a>
-
-<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
-  <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /></a>
-
 
 <section>
   <h2 style="color: #8e00ff;">Навыки</h2>
@@ -157,20 +112,30 @@
   </div>
 </section>
 
-<!-- <b>Социальные сети</b>
 
-<p align="left"> <a target="_blank" href="https://www.github.com/margo-yunanova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> -->
+<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms">
+<h2 style="color: #8e00ff;">Алгоритмические задачи</h2>
+</a>
 
-<h2 style="color: #8e00ff;">My GitHub Stats</h2>
+<a target="_blank" href="https://www.codewars.com/users/MargoY">Codewars</a>
 
-<div>
-<a target="_blank" href="http://www.github.com/margo-yunanova"><img
+<a target="_blank" href="https://www.codewars.com/users/MargoY">
+  <img src="https://github.r2v.ch/codewars?user=MargoY" alt="Статистика Codewars" style="width: 400px" /></a>
+  
+<a target="_blank" href="https://leetcode.com/margoYunanova/">LeetCode</a>
+
+<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
+  <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /></a>
+
+
+<h2>Моя статистика на GitHub</h2>
+  <div>
+    <a target="_blank" href="http://www.github.com/margo-yunanova"><img
       src="https://github-readme-stats.vercel.app/api?username=margo-yunanova&show_icons=true&hide=stars,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true"
       alt="margo-yunanova's GitHub stats" style="width: 400px" /></a>
-<a target="_blank" href="http://www.github.com/margo-yunanova"><img
+  </div>
+  <div>
+  <a target="_blank" href="http://www.github.com/margo-yunanova"><img
         src="https://github-readme-streak-stats.herokuapp.com/?user=margo-yunanova&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
         style="width: 400px" /></a>
-<a target="_blank" href="https://github.com/margo-yunanova"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=margo-yunanova&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"
-      alt="Top Languages" /></a>
-</div>
+  </div>
