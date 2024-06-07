@@ -11,12 +11,24 @@
 
 
 <section>
-  <h2 style="color: #8e00ff;">Курсы</h2>
+  <h2 style="color: #8e00ff;">Опыт</h2>
 
   <ul style="list-style-type:none; padding-inline-start: 10px;">
     <li>
       <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
-        Яндекс.Практикум, обучение закончится в феврале 2024 г.
+        Хакатоны
+      </h3>
+      <ul>
+        <li>
+          <a target="_blank" href="https://github.com/margo-yunanova/pay2u-subscriptions-hackathon">Frontend: Мобильное приложение для агрегации сервисов подписок для PAY2U</a>
+          <div> Стек: React, TypeScript, MUI, Redux Toolkit, Yup, MSW</div>
+        </li>
+      </ul>
+    </li>
+  
+  <li>
+    <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
+        Яндекс.Практикум - 1.5 годовое обучение на курсе Фулстек-разрабочик, завершено в апреле 2024 г.
       </h3>
 
   <ul style="list-style-type:none;padding-inline-start: 10px;display: flex;flex-direction: column; gap: 10px;">
