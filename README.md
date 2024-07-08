@@ -2,90 +2,58 @@
 
 <div align="center"><img width="350px" src="./images/144.gif" alt="Марго Всемогущая" /></div>
 
-<h2 style="color: #8e00ff;">Контакты</h2>
+## Контакты
 
-<b>Telegram </b><a target="_blank" href="https://t.me/MargoY"><span>@MargoY</span></a>
+**Telegram** @[MargoY](https://t.me/MargoY)
 
-<b>Резюме на </b><a target="_blank" href="https://hh.ru/resume/308fa690ff0c7281a20039ed1f394354427034"><span>hh.ru</span></a>
+**Резюме** на [hh.ru](https://hh.ru/resume/308fa690ff0c7281a20039ed1f394354427034)</span>
 
 
 
-<section>
-  <h2 style="color: #8e00ff;">Опыт</h2>
+## Опыт
 
-  <ul style="list-style-type:none; padding-inline-start: 10px;">
-    <li>
-      <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
-        Хакатоны
-      </h3>
-      <ul>
-        <li>
-          <a target="_blank" href="https://github.com/margo-yunanova/pay2u-subscriptions-hackathon">Frontend: Мобильное приложение для агрегации сервисов подписок для PAY2U</a>
-          <div> Стек: React, TypeScript, MUI, Redux Toolkit, Yup, MSW</div>
-        </li>
-      </ul>
-    </li>
-  
-  <li>
-    <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
-        Яндекс.Практикум - 1.5 годовое обучение на курсе Фулстек-разрабочик, завершено в апреле 2024 г.
-      </h3>
+### Хакатоны
+  - [Frontend: Мобильное приложение для агрегации сервисов подписок для PAY2U](https://github.com/margo-yunanova/pay2u-subscriptions-hackathon)
+  Стек: React, TypeScript, MUI, Redux Toolkit, Yup, MSW
 
-  <ul style="list-style-type:none;padding-inline-start: 10px;display: flex;flex-direction: column; gap: 10px;">
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/mesto-project">Frontend: Место - это соцсеть для
-        обмена фотографиями с возможностью ставить им лайки</a>
-        <div> Стек: vanilla JavaScript, HTML, CSS, БЭМ, REST API</div>
-    </li>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/mesto-project-plus">Backend: Место - это соцсеть
-        для обмена фотографиями с возможностью ставить им лайки</a>
-      <div> Стек: TypeScript, ExpressJS, Mongodb, Mongoose, Celebrate, Winston, REST API, JWT</div>
-    </li>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/algososh">Визуализация работы алгоритмов и
-        структур данных</a>
-        <div> Стек: TypeScript, React, Cypress, Jest</div>
-    </li>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/react-burger">Stellar burgers - одностраничное
-        приложение бургерной</a>
-      <div> Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket</div>
-    </li>
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/margo-yunanova/kupipodariday-backend">КупиПодариДай - API для
-        сервиса для создания списков желаний</a>
-      <div> Стек: TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js, JWT, REST API</div>
-    </li>
-  </ul>
-</li>
-<li>
-  <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
-    Хекслет, обучение закончится в 2024 г.
-  </h3>
-  <ul>
-    <li>
-      <h4>
-        <a target="_blank" href="https://ru.hexlet.io/u/margo-yunanova">Профиль</a>
-      </h4>
-     </li>
-  </ul>
-</li>
-<li>
-  <h3 style="margin-block-start: 18px;margin-block-end: 0px;">
-    Open source
-  </h3>
-  <ul style="list-style-type:none;padding-inline-start: 10px;">
-    <li style="display: flex; flex-direction: column;">
-      <a target="_blank" href="https://github.com/MemeBattle/monorepo">Ligretto - онлайн многопользовательская игра</a>
-      <div>Стек: React, Storybook</div>
-     </li>
-   </ul>
- </ul>
-</section>
+### Тестовые задания
+<details>
+  <summary>Проекты</summary>
 
-<section>
-  <h2 style="color: #8e00ff;">Навыки</h2>
+[Выполненные проекты](https://github.com/stars/margo-yunanova/lists/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+
+
+</details>
+
+### Яндекс.Практикум - 1.5 годовое обучение на курсе Фулстек-разрабочик, завершено в апреле 2024 г.
+<details>
+  <summary>Проекты</summary>
+
+- [Frontend: Место - это соцсеть для обмена фотографиями с возможностью ставить им лайки](https://github.com/margo-yunanova/mesto-project)
+Стек: vanilla JavaScript, HTML, CSS, БЭМ, REST API
+
+- [Backend: Место - это соцсеть для обмена фотографиями с возможностью ставить им лайки](https://github.com/margo-yunanova/mesto-project-plus)
+Стек: TypeScript, ExpressJS, Mongodb, Mongoose, Celebrate, Winston, REST API, JWT
+
+- [Визуализация работы алгоритмов и структур данных](https://github.com/margo-yunanova/algososh)
+Стек: TypeScript, React, Cypress, Jest
+
+- [Stellar burgers - одностраничное приложение бургерной](https://github.com/margo-yunanova/react-burger)
+Стек: TypeScript, React, Drag-and-drop (react-dnd), Redux, ReactRouter, Websocket
+
+- [КупиПодариДай - API для сервиса для создания списков желаний](https://github.com/margo-yunanova/kupipodariday-backend) Стек: TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js, JWT, REST API
+
+</details>
+
+ 
+### Хекслет, обучение закончится в 2024 г.
+- [Профиль](https://ru.hexlet.io/u/margo-yunanova)
+
+### Open source
+
+- [Ligretto - онлайн многопользовательская игра](https://github.com/MemeBattle/monorepo) Стек: React, Storybook
+
+### Навыки
 
   <div>
     <div style="display: flex; flex-direction: column; gap: 10px;">
@@ -125,9 +93,7 @@
 </section>
 
 
-<a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms">
-<h2 style="color: #8e00ff;">Алгоритмические задачи</h2>
-</a>
+### [Алгоритмические задачи](https://github.com/margo-yunanova/javascript-algorithms)
 
 <a target="_blank" href="https://www.codewars.com/users/MargoY">Codewars</a>
 
@@ -139,8 +105,7 @@
 <a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
   <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /></a>
 
-
-<h2>Моя статистика на GitHub</h2>
+### Моя статистика на GitHub
   <div>
     <a target="_blank" href="http://www.github.com/margo-yunanova"><img
       src="https://github-readme-stats.vercel.app/api?username=margo-yunanova&show_icons=true&hide=stars,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true"
