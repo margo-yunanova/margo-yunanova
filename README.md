@@ -18,7 +18,7 @@
 
 ### Тестовые задания
 <details>
-  <summary>Проекты</summary>
+  <summary>Развернуть</summary>
 
 [Выполненные проекты](https://github.com/stars/margo-yunanova/lists/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
@@ -27,7 +27,7 @@
 
 ### Яндекс.Практикум - 1.5 годовое обучение на курсе Фулстек-разрабочик, завершено в апреле 2024 г.
 <details>
-  <summary>Проекты</summary>
+  <summary>Развернуть</summary>
 
 - [Frontend: Место - это соцсеть для обмена фотографиями с возможностью ставить им лайки](https://github.com/margo-yunanova/mesto-project)
 Стек: vanilla JavaScript, HTML, CSS, БЭМ, REST API
