@@ -103,7 +103,9 @@
 <a target="_blank" href="https://leetcode.com/margoYunanova/">LeetCode</a>
 
 <a target="_blank" href="https://github.com/margo-yunanova/javascript-algorithms/tree/main/leetcode">
-  <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /></a>
+<!--   <img src="https://leetcode-stats-six.vercel.app/?username=margoYunanova&theme=dark" alt="Статистика LeetCode" style="width: 400px" /> --> 
+  <img src="https://stats.justsong.cn/api/leetcode/?username=margoYunanova&theme=midnight-purple" alt="Статистика LeetCode" style="width: 400px" />
+</a> 
 
 ### Моя статистика на GitHub
   <div>
