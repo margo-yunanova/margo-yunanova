@@ -1,4 +1,4 @@
-<h1 align="center">Привет 🖖, меня зовут Марго и я<br> Frontend разработчик</h1>
+<h1 align="center">Привет 🖖, меня зовут Марго, и я<br> Frontend-разработчик</h1>
 
 <div align="center"><img width="350px" src="./images/144.gif" alt="Марго Всемогущая" /></div>
 
